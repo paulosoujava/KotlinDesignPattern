@@ -35,14 +35,14 @@ Aqui você encontrará exemlos de design patterns.
 
 #Structural
 
-<img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/structural/images/0.png" width="648">
-<img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/structural/images/1.png" width="648">
-<img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/structural/images/2.png" width="648">
-<img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/structural/images/3.png" width="648">
-<img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/structural/images/4.png" width="648">
-<img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/structural/images/5.png" width="648">
-<img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/structural/images/6.png" width="648">
-<img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/structural/images/7.png" width="648">
+<img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/structural/image/0.png" width="648">
+<img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/structural/image/1.png" width="648">
+<img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/structural/image/2.png" width="648">
+<img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/structural/image/3.png" width="648">
+<img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/structural/image/4.png" width="648">
+<img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/structural/image/5.png" width="648">
+<img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/structural/image/6.png" width="648">
+<img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/structural/image/7.png" width="648">
 
 ## 
 
