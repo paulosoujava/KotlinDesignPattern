@@ -4,7 +4,7 @@ https://github.com/paulosoujava/dartPattern
 Em Javascript
 https://github.com/paulosoujava/pattern
 
-Aqui você encontrará exemlos de design patterns. Exemplo para cada um dos 23 Gang of Four design patterns
+Aqui você encontrará exemlos de design patterns. 
 
 
 
