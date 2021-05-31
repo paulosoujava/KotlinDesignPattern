@@ -15,7 +15,6 @@ Aqui você encontrará exemlos de design patterns.
 <img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/creational/images/3.png" width="648">
 <img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/creational/images/4.png" width="648">
 <img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/creational/images/5.png" width="648">
-<img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/creational/images/6.png" width="648">
 <img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/creational/images/7.png" width="648">
 
 
