@@ -23,7 +23,6 @@ Aqui você encontrará exemlos de design patterns.
 <img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/behavioural/image/0.png" width="648">
 <img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/behavioural/image/1.png" width="648">
 <img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/behavioural/image/2.png" width="648">
-<img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/behavioural/image/3.png" width="648">
 <img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/behavioural/image/4.png" width="648">
 <img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/behavioural/image/5.png" width="648">
 <img src="https://github.com/paulosoujava/KotlinDesignPattern/blob/main/designPatternsKotlin/behavioural/image/6.png" width="648">
