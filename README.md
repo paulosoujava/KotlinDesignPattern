@@ -4,8 +4,7 @@ https://github.com/paulosoujava/dartPattern
 Em Javascript
 https://github.com/paulosoujava/pattern
 
-Aqui você encontrará exemlos de design patterns. 
-
+Exemplos em KOTLIN
 
 
 #Creational
